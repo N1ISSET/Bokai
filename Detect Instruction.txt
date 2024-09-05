@@ -1,0 +1,4 @@
+
+Yolo detect instruction:
+
+yolo detect predict model=runs/detect/train7/weights/best.pt source='C:\Users\Dell\Downloads\ultralytics-main\datasets\images\test\R.jpg'
